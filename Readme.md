@@ -58,4 +58,4 @@
 
 ### License
 
-This project is licensed under the MIT [License](https://console.cloud.google.com/) - see the LICENSE file for details.
+This project is licensed under the MIT [License](https://github.com/Trabajador/youtube-playlist-scraper/blob/master/LICENSE) - see the LICENSE file for details.
