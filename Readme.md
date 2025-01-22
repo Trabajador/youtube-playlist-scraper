@@ -6,7 +6,6 @@
 
   * Fetches video data from a YouTube playlist using the YouTube Data API v3.
   * Retrieves video titles, links, and thumbnail images.
-  * Handles pagination if the playlist contains more than 50 videos.
   * Saves the list of videos in an easy-to-read HTML file.
 
 ## Prerequisites
